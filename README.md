@@ -1745,7 +1745,7 @@ after reviewing the destruction plan.
 This is particularly important when working with paid Azure resources.
 
 ---
-
+<!-- 
 # 50. Project Completion Status
 
 ## Infrastructure
@@ -1821,4 +1821,4 @@ Testing
 Infrastructure as Code
 ```
 
-Terraform allows the entire infrastructure to be represented as code, making it reproducible, reviewable, version-controllable, and easier to maintain than manually creating each Azure resource through the Portal.
+Terraform allows the entire infrastructure to be represented as code, making it reproducible, reviewable, version-controllable, and easier to maintain than manually creating each Azure resource through the Portal. -->
